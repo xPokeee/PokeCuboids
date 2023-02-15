@@ -1,0 +1,15 @@
+name: PokeCuboids
+version: '${project.version}'
+main: xpoke.space.cuboids.Main
+api-version: 1.18
+prefix: PokeCuboids
+authors: [ xPoke_ ]
+description: Cuboids plugin
+depend:
+  - Vault
+commands:
+  dzialka:
+    aliases:
+      - plot
+      - cuboid
+      - kuboida
